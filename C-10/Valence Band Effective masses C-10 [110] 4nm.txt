@@ -1,0 +1,4 @@
+Band Number	 Valley Number 	 Direction 	 Kposition/pi 	 Effective Mass 	 Energy 
+1	|1	|<1,0,0>	|[0,0,0]	|-0.1407144	|-0.0753639
+2	|1	|<1,0,0>	|[0,0,0]	|-0.1406487	|-0.0987522
+3	|1	|<1,0,0>	|[0,0,0]	|-0.1334717	|-0.1367463
